@@ -4,7 +4,7 @@ Generic
     mkdir
     cd
     explorer.exe .
-    la
+    ls
 
 git --version
 git clone https://github.com/Paiktis/demo-repo.git
